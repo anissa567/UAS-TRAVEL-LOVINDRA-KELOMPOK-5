@@ -12,7 +12,7 @@
 | Nama Kolaborator | GitHub Profile |
 |----------~---------|----------------|
 |  🌐 https://github.com/diandra1005 |
-|  🌐 https://github.com/  |
+|  🌐 https://github.com/yusuffebri |
 -~--
 ## 📝 Deskripsi
 Repository ini adalah hasil kolaborasi Kelompok 5 untuk Tugas UAS.  
