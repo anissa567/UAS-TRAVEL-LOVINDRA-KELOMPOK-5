@@ -30,7 +30,7 @@ Kami berharap repository ini dapat membantu dalam memahami proyek kami secara ke
 ## 🚀 Cara Menggunakan
 1. Clone repository ini ke lokal:
    ```bash
-   git clone https://github.com/isnanimasitoh17/Kelompok-4-Basis-Data
+   git clone https://github.com/anissa567/UAS-TRAVEL-LOVINDRA-KELOMPOK-5.git
 2. Buka file dokumen di folder Dokumen.
 3. Ikuti manual penggunaan sistem untuk informasi lebih lanjut.
 0 commit comments
